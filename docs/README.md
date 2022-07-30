@@ -29,5 +29,4 @@ features:
     details: 设置、查询全局禁言等
   - title: 运营管理
     details: 拉取运营数据、下载最近消息记录等
-footer: Apache-2.0 Licensed | Copyright © 2021-present Doocs
 ---
